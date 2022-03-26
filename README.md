@@ -6,6 +6,8 @@ Create an anlysis and visualization that showcase the relationship between the t
 
 ## Summary statistics by city type
 
+![](Analysis/DateFrameSummary.png)
+
 ### Urban
 
 ◽ Average Fare by Ride $24.62
