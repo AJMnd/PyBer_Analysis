@@ -36,4 +36,4 @@ Create an anlysis and visualization that showcase the relationship between the t
 # 🟩Summary: 
 
 The analysis and visualization produced will help PyBer imporove access to ride-sharing services and determine affordability for underserved neighborhoods. The results show that the average fare by ride is highest in Rural ($34.62) cities in comparison to suburban ($30.97)and urban ($24.62)cities.  
-![](/PyBer_fare_summary.png)
+![](Analysis/PyBer_fare_summary.png)
